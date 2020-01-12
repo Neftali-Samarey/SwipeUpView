@@ -5,12 +5,12 @@
 
 # Collapsed card slider view
 <div align = "center">
-<img src="screenshots/collapsed.png" width="700px" />
+<img src="screenshots/collapsed.png" width="350px" />
 </div>
 
 
 # Expanded view
 <div align = "center">
-<img src="screenshots/expanded.png" width="700px" />
+<img src="screenshots/expanded.png" width="350px" />
 </div>
 
